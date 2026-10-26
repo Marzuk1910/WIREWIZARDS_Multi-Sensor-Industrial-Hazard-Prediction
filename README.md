@@ -1,0 +1,2 @@
+# WIREWIZARDS_Multi-Sensor-Industrial-Hazard-Prediction
+This project develops an IoT-based warehouse hazard detection system using DHT11, MQ gas, and vibration sensors. It monitors warehouse conditions and uploads sensor data to a cloud platform for real-time monitoring. Traffic LEDs and a buzzer provide local alerts, while SIM800L GSM module sends SMS notifications when potential hazards are detected.
